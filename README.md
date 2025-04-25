@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Goutam Bhosagar
 
-🎓 B.Tech in Computer Science (6th Sem) | Bhubaneswar Engineering College  
+🎓 B.Tech in Computer Science (Final Year) | Bhubaneswar Engineering College  
 💻 Full Stack Developer | React Native | PHP | Node.js | SQL  
 🤖 AI & ML Enthusiast | Intern @ IBM AICTE Edunet | Java Intern @ CTTC  
 🌐 Portfolio: [goutambhosagar.netlify.app](https://goutambhosagar.netlify.app)
